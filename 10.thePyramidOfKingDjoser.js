@@ -37,6 +37,3 @@ function Pyramid(base, increment) {
 }
 
 
-Pyramid(11,
-    0.75
-    )
